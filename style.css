@@ -1,5 +1,7 @@
 h1{color: aqua;}
 
-p{color: aqua;
+body{
 
-background-color: black;}
+font-size: 20px;
+line-height: 1.5;
+}
